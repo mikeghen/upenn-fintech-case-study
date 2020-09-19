@@ -1,6 +1,29 @@
-# Case Study
-This is my **case study**.
+# Fintech Case Study
+> Fintech is technology and finance  
+--- 
+## Table of contents
 
-* This is about fintech
+[data](./data)
+[Github](https://github.com)
+![Screenshot](./image.png)
 
-This is more about fintech
+## Overview
+Crypto.com is a great *fintech* company.
+
+### What is Crypto.com
+
+---
+
+## Background 
+
+
+## Terminal Notes
+To make a directory from bash you use the `mkdir` command.
+
+## Python
+```python
+import numpy as np
+
+a = np.array()
+```
+
